@@ -51,7 +51,7 @@ ${menu.search}
 
 POWERED BY CASEYRHODES ❤️
 `
-await conn.sendmessage(from,{text:mademenu},{qouted}:mek})
+await conn.sendmessage(from{image:{url:"https://telegra.ph/file/c0dac3eb1cb9d374160d4.jpg"},caption:madeMenu},{text:mademenu},{qouted:mek})
 
 
 
