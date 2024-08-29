@@ -1,5 +1,7 @@
 
 
+![CASEYRHODES-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE👋🏻;WELCOME+TO+CASEYRHODES+MD+💙)
+  
 ![bot casserydos](https://github.com/user-attachments/assets/3f6086c8-370f-4e09-b0cd-280ee1d17479)
 
 
