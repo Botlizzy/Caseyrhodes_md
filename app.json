@@ -11,19 +11,7 @@
       "description": "Name for Bot Owner",    
       "value": "caseyrhodes",
       "required" :true
-    },   
-     
-    "CAN_WELCOME": {
-      "description": "put 'false' or 'true' to enable & disable WELCOME ",
-      "value": "true",
-      "required" :false
-    },
-     
-    "CAN_GOODBYE": {
-      "description": "put 'false' or 'true' to enable & disable GOODBYE ",
-      "value": "false",
-      "required" :false
-    },
+    },  
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
@@ -38,11 +26,6 @@
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
       "required" :false,    
       "value": "false"
-    },
-    "WARN_COUNT": {
-      "description": " Warn count for users to kick/block when warn limit exceed!",
-      "required" :false,    
-      "value": "3"
     },
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
