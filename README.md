@@ -1,8 +1,8 @@
   
 ![CASEYWEB-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE👋🏻;WELCOME+TO+CASEYRHODES+MD+💙)
   
-<a><img src='https://ibb.co/QnmmhLr.gif'/></a>
-<a><img src='https://ibb.co/QnmmhLr.gif'/></a>
+<a><img src='https://telegra.ph/file/2365c1cb8972d8f48ca45.jpg.gif'/></a>
+<a><img src='https://telegra.ph/file/2365c1cb8972d8f48ca45.jpg.gif'/></a>
 
  
  <p align="center">  
