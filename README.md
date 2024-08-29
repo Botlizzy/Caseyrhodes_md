@@ -1,13 +1,13 @@
   
 ![CASEYWEB-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE👋🏻;WELCOME+TO+CASEYRHODES+MD+💙)
   
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://ibb.co/QnmmhLr.gif'/></a>
+<a><img src='https://ibb.co/QnmmhLr.gif'/></a>
 
  
  <p align="center">  
   <a href="">
-    <img alt="CASEYWEB" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
+    <img alt="CASEYWEB" width="600" height="350" src="https://ibb.co/QnmmhLr.jpeg">
   </a>
 </p>
 
@@ -27,14 +27,14 @@
 
  <h1 align="center">🪀 CASEYRHODES_MD_BOT🪀</h1>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://ibb.co/QnmmhLr.gif'/></a>
+<a><img src='https://ibb.co/QnmmhLr.gif'/></a>
 
 ### 𝘾𝙇𝙄𝘾𝙆 𝘼𝙉𝘿 𝙒𝘼𝙄𝙏 𝙏𝙊 𝙊𝙋𝙀𝙉 𝙏𝙃𝙀 𝙎𝙄𝙏𝙀
 
 ### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 1
 <p align="left">
-<a href="https://prince-pairing-code.onrender.com"><img height= "30" title="Author" src="https://img.shields.io/badge/SESSION ID-pink?style=for-the-badge&logo=render"></a>
+<a href="https://caseyweb-pairing-code.onrender.com"><img height= "30" title="Author" src="https://img.shields.io/badge/SESSION ID-pink?style=for-the-badge&logo=render"></a>
 <p/>
 
 ### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 2
@@ -51,7 +51,7 @@
 
 ### 𝙌𝙍 𝙎𝘾𝘼𝙉
 <p align="left">
-<a href="https://princebotqr.onrender.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/SESSION ID-red?style=for-the-badge&logo=render"></a>
+<a href="https://caseywebbotqr.onrender.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/SESSION ID-red?style=for-the-badge&logo=render"></a>
 <p/>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -70,19 +70,19 @@
  ### <br>
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FPRINCE-GDS%2FPRINXE-MD) 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://ibb.co/QnmmhLr.gif'/></a>
+<a><img src='https://ibb.co/QnmmhLr.gif'/></a>
 
 ### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
    <p align="left">
       <a href="https://chat.whatsapp.com/D9hokK6OHS5C3eLEwPKjsJ"><img height= "30" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
      <p/>
        
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://ibb.co/QnmmhLr.gif'/></a>
+<a><img src='https://ibb.co/QnmmhLr.gif'/></a>
 ### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Clikc here](https://github.com/PRINCE-GDS/PRINXE-MD/blob/main/LICENSE)
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <a><img src='https://ibb.co/QnmmhLr.gif'/></a>
+  <a><img src='https://ibb.co/QnmmhLr.gif'/></a>
 ### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 CASEYRHODES_MD`]
 #### 🌐 Arabic = ar 
 #### 🌐 Urdu = ur
