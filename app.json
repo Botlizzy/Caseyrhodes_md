@@ -47,7 +47,7 @@
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
       "value": "",
-      "required" :true 
+      "required" :false 
     },   
     "HEROKU_APP_NAME": {
       "description": "Put Your Heroku App Name Here",
@@ -65,7 +65,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254743436105"
+      "value": "254112192119"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -93,7 +93,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Yobih_bot",
+      "value": "caseyrhodes_bot",
       "required": false 
     },
     "PACK_AUTHER": {
