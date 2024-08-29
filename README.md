@@ -1,5 +1,5 @@
   
-![PRINXE-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE👋🏻;WELCOME+TO+PRINCE+MD+💙)
+![CASEYWEB-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE👋🏻;WELCOME+TO+CASEYRHODES+MD+💙)
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -75,7 +75,7 @@
 
 ### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
    <p align="left">
-      <a href="https://chat.whatsapp.com/Jo5bmHMAlZpEIp75mKbwxP"><img height= "30" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
+      <a href="https://chat.whatsapp.com/D9hokK6OHS5C3eLEwPKjsJ"><img height= "30" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
      <p/>
        
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
