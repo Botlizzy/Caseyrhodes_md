@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<a href="https://github.com/CASEYWEB-GDS/CASEYWEB-MD"><img title="Author" src="https://img.shields.io/badge/𝑷𝑹𝑰𝑵𝑪𝑬 𝑴𝑫 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/CASEYWEB-GDS/CASEYWEB-MD"><img title="Author" src="https://img.shields.io/badge/CASEYRHODES🦄 𝑴𝑫 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
