@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Mungai",
+      "value": "caseyrhodes",
       "required" :true
     },   
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "Yobih_bot"
+      "value": "caseyrhodes_bot"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
