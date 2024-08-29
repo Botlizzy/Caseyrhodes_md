@@ -1,8 +1,9 @@
   
-![CASEYWEB-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE👋🏻;WELCOME+TO+CASEYRHODES+MD+💙)
   
 <a><img src='https://telegra.ph/file/2365c1cb8972d8f48ca45.jpg'/></a>
 <a><img src=''/></a>
+
+![bot casserydos](https://github.com/user-attachments/assets/3f6086c8-370f-4e09-b0cd-280ee1d17479)
 
  
  <p align="center">  
