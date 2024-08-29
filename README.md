@@ -7,7 +7,7 @@
  
  <p align="center">  
   <a href="">
-    <img alt="CASEYWEB" width="600" height="350" src="https://ibb.co/QnmmhLr.jpeg">
+    <img alt="CASEYWEB" width="600" height="350" src="https://telegra.ph/file/2365c1cb8972d8f48ca45.jpg">
   </a>
 </p>
 
