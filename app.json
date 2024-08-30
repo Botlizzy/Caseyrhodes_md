@@ -1,83 +1,31 @@
 {
-  "name": "caseyrhodes_md",
-  "description": "Javascript WhatsApp bot made by caseyrhodes",
-  "logo": "https://telegra.ph/file/14faa6bf93df54b97675e.jpg",
+  "name": "YourBot",
+  "description": "Javascript WhatsApp bot made by YourName",
+  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["bot"],
   "success_url": "/",
-  "app_url": "/qr/",
-  "stack":"container",
-  "env": {
-    "OWNER_NAME": {
-      "description": "Name for Bot Owner",    
-      "value": "caseyrhodes",
-      "required" :true
-    },  
-    "BOT_NAME": {
-      "description": " NAME FOR BOT",
-      "required" :false,    
-      "value": "caseyrhodes_bot"
-    }, 
-    "TZ": {
-      "description": "Put TIME_ZONE according to your location",
-      "required" :false,    
-      "value": "Africa/Nairobi"
-    },  
-    "FLUSH": {
-      "description": " Make it 'true' if bot connected but not responed (After deployement!)",
-      "required" :false,    
-      "value": "false"
-    },
-    "HEROKU_API_KEY": {
-      "description": "Put Your Heroku Api Key Here",
-      "value": "",
-      "required" :false 
-    },   
-    "HEROKU_APP_NAME": {
-      "description": "Put Your Heroku App Name Here",
-      "value": "",
-    "required" :true
-    }, 
-    "MSGS_IN_LOG": {
-      "description": "Fill the value -true- if you want to see Messages in logs.",
-      "required" :false,
-      "value": "true"
-    },
-    "PREFIX": {
-      "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-      "value": "."
-    },
-    "OWNER_NUMBER": {
-      "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254112192119"
-    },
-    "SESSION_ID": {
-      "description": "put your SESSION_ID here.",
-      "value":
-    },
-    "OPENAI_API_KEY": {
-      "description": "put your OPENAI api key here.Get it from beta.openai.com ",
-      "value": "",
-      "required" :false
-    },
-    "MODE": {
-      "description": "Worktype of your bot. Use public/private, if private then only bot number can use it. If public then everyone can use it.",
-      "value": "public"
-    },
-    "PACK_NAME": {
-      "description": "Put Sticker Pack_Name.",
-      "value": "caseyrhodes_bot",
-      "required": false 
-    },
-    "PACK_AUTHER": {
-      "description": "Put Sticker Author_Name.",
-      "value": "",
-      "required": false 
-    }
-  }, 
-  "addons": [{ "plan": "heroku-postgresql:essential-1" }],
-  "buildpacks": [
-    { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
-    { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
-  ]
-}
 
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    },  
+
+    "ALIVE_IMG": {
+      "description": "Put your alive img here.",
+      "required": true
+    },
+    
+    "ALIVE_MSG": {
+      "description": "Put your alive msg here.",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
