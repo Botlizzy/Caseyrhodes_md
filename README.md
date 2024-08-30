@@ -37,6 +37,14 @@ FORK THE REPOSITORY (Repo)
     <br>
 <a href="https://github.com/Caseywebs/Caseyrhodes_md/tree/main"><img title="WEB" src="https://img.shields.io/badge/FORK CASEYRHODES MD-QR?color=purple&style=for-the-badge&logo=stackshare"></a>
 
+
+#### DEPLOY TO HEROKU 
+**1. sign up on heroku**
+
+- <a align="center"><a href="https://signup.heroku.com">
+ <img src="https://img.shields.io/badge/Create%20Account%20Now-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+ 
 ### <br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CASEYWEB-GDS/caseyrhodes-MD) 
  
