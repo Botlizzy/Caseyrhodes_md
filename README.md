@@ -49,14 +49,14 @@ FORK THE REPOSITORY (Repo)
 
 ### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 2
 <p align="left">
-<a href="https://a575007e-068f-4c17-bb07-0bc6dc8a2068-00-30v74azw5xlnt.worf.replit.dev/"><img height= "30" title="Author" src="https://img.shields.io/badge/SESSION ID-green?style=for-the-badge&logo=render"></a>
+<a href="https://5f0a2d8a-2eda-469a-9d95-f13986e3fe25-00-17w1kczy0cwg8.riker.replit.dev/"><img height= "30" title="Author" src="https://img.shields.io/badge/SESSION ID-green?style=for-the-badge&logo=render"></a>
 <p/>
 
 
 
 
 
-#### DEPLOY TO HEROKU 
+#### DEPLOY TO HE
 **1. sign up on heroku**
 
 - <a align="center"><a href="https://signup.heroku.com">
