@@ -1,31 +1,22 @@
 {
-  "name": "CASEYRHODES_MD🦄",
-  "description": "Javascript WhatsApp bot made by CASEYRHODES 🌟",
-  "logo": "https://telegra.ph/file/8a428aa58e9f7fd403ee3.jpg",
-  "keywords": ["bot"],
-  "success_url": "/",
-
-  "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
-      "required": true
-    },  
-
-    "ALIVE_IMG": {
-      "description": "Put your alive img here.",
-      "required": false
-    },
-    
-    "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
-      "required": false
+    "name": "caseyrhodes Session Generator",
+    "description": "I'm Web Session Generator by caseyrhodes",
+    "logo": "",
+    "repository": "https://github.com/caseyweb/caseyrhodes_md-session-generator",
+    "keywords": ["@Xcelsama"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "",
+        "value": "",
+        "required": false 
+      }
     }   
-},
 
-     "buildpacks": [
-        {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
-        }
-     ],
-  "stack": "heroku-24"
 }
