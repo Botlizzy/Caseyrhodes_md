@@ -27,13 +27,18 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[`ℹ️Contact Owner`](https://wa.me/254112192119)
+
+[`✅Contact Owner`](https://wa.me/254112192119)
+
+
+
 
 FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Caseywebs-QR"><img title="WEB" src="https://img.shields.io/badge/FORK CASEYRHODES MD-QR?color=black&style=for-the-badge&logo=stackshare"></a
+<a href="https://github.com/Caseywebs/Caseyrhodes_md-QR"><img title="WEB" src="https://img.shields.io/badge/FORK CASEYRHODES MD-QR?color=purple&style=for-the-badge&logo=stackshare"></a>
+
 ### <br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PRINCE-GDS/PRINXE-MD) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CASEYWEB-GDS/caseyrhodes-MD) 
  
 ### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
    <p align="left">
