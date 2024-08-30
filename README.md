@@ -68,7 +68,8 @@ FORK THE REPOSITORY (Repo)
        
 <a><img src='https://ibb.co/QnmmhLr.gif'/></a>
 <a><img src='https://ibb.co/QnmmhLr.gif'/></a>
-### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Clikc here])
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=purple+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS TO +CASEYRHODES🌟MD-BOT;MULTI+DEVICE+WHATSAPP+BOT;THANKS+FOR+CHOOSING+ME;GOD+BLESS+CASEYRHODES😹" alt="Typing SVG" /></a>
  <a><img src='https://ibb.co/QnmmhLr.gif'/></a>
   <a><img src='https://ibb.co/QnmmhLr.gif'/></a>
 ### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 CASEYRHODES_MD`]
