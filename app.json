@@ -33,7 +33,7 @@
     "STATUSVIEW": {
       "description": "Make it true if you want bot to view status",
       "required": false,
-      "value": "false
+      "value": "false,
     },
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
@@ -42,8 +42,7 @@
     }
     
    
-  },
-    
+{
      "buildpacks": [
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
