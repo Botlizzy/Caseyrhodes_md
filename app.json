@@ -4,18 +4,17 @@
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["bot"],
   "success_url": "/",
-    },  
- 
-"MODE": {
+    }, 
+    "MODE": {
       "description": "mode public or private",
       "required": true,
       "value": "public"
        },
      "HKEY": {
       "description": "Put your Heroku API key Here",
-      "required":false,
-      "value": ""
-    },
+      "required":false
+       "value": ""
+      },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
@@ -25,22 +24,16 @@
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
       "value": "!"
-    },
+     },
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
       "value": "🔮 CASEYRHODES 🔮"
       },
-    "DATABASE_URL": {
-      "description": "Put your MongoDB here",
-      "required": false,
-      "value": ""
-      },
     "STATUSVIEW": {
       "description": "Make it true if you want bot to view status",
       "required": false,
-      "value": "false"
-    
+      "value": "false
     },
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
@@ -51,18 +44,10 @@
    
   },
     
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    },
-    {
-      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
-    },
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-    }
-  ]
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
 }
