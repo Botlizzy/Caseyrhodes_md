@@ -45,8 +45,21 @@ FORK THE REPOSITORY (Repo)
  <img src="https://img.shields.io/badge/Create%20Account%20Now-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
-### <br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CASEYWEB-GDS/caseyrhodes-MD) 
+2. Now deploy.
+    <br>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/Caseywebs/Caseyrhodes_md/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    
+## ```Connect With Me```<img src="https://github.com/caseyweb/caseyweb/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
+ <br> 
+<p align="center">
+<a href="https://wa.me/254112192119"><img src="https://img.shields.io/badge/Contact caseyrhodes-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://t.me/caseyrhodes001"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
+<p align="center">
+<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+# 
+
  
 ### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
    <p align="left">
