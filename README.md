@@ -26,6 +26,12 @@
 ### 𝘾𝙇𝙄𝘾𝙆 𝘼𝙉𝘿 𝙒𝘼𝙄𝙏 𝙏𝙊 𝙊𝙋𝙀𝙉 𝙏𝙃𝙀 𝙎𝙄𝙏𝙀
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+[`ℹ️Contact Owner`](https://wa.me/254112192119)
+
+FORK THE REPOSITORY (Repo) 
+    <br>
+<a href="https://github.com/Caseywebs-QR"><img title="WEB" src="https://img.shields.io/badge/FORK CASEYRHODES MD-QR?color=black&style=for-the-badge&logo=stackshare"></a
 ### <br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PRINCE-GDS/PRINXE-MD) 
  
