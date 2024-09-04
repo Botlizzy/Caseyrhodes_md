@@ -70,7 +70,7 @@ FORK THE REPOSITORY (Repo)
 ## ```Connect With Me```<img src="https://github.com/caseyweb/caseyweb/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/254112192119"><img src="https://img.shields.io/badge/Contact caseyrhodes-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/2347038494997"><img src="https://img.shields.io/badge/Contact caseyrhodes-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/caseyrhodes001"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
