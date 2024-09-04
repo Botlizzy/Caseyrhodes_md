@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Tonny 408"
+    "value": "GREY-HEART-TECH"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254112192119"
+    "value": "2347038494997"
   },
     "WARN_COUNT":
   {
